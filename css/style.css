@@ -1,0 +1,19 @@
+.jumbotron {
+    color: #fff;
+    background-position-y: 10%;
+    color: #fff;
+    background-color: #1F4FA3;
+    
+}
+
+div.panel-body {
+    background-color: #1F4FA3;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #800000;
+    border-color: #fff;
+    font-weight: bold;
+}
+
